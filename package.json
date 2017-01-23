@@ -1,0 +1,26 @@
+{
+  "name": "passport-linkedin-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghost-/passport-linkedin-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ghost-/passport-linkedin-demo/issues"
+  },
+  "homepage": "https://github.com/ghost-/passport-linkedin-demo#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "passport": "^0.3.2",
+    "passport-linkedin": "^1.0.0"
+  }
+}
