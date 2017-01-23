@@ -19,7 +19,6 @@
   },
   "homepage": "https://github.com/ghost-/passport-linkedin-demo#readme",
   "dependencies": {
-    "dotenv": "^4.0.0",
     "express": "^4.14.0",
     "passport": "^0.3.2",
     "passport-linkedin": "^1.0.0"
